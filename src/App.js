@@ -135,6 +135,7 @@ export default function HandCricketGame() {
     setBalls((b) => b + 1);
     setGameLog((l) => [...l, log]);
 
+    // Check if innings should switch
     if (balls + 1 === 12 || userWickets === 2 || compWickets === 2) {
       if (innings === 1) {
         setInnings(2);
