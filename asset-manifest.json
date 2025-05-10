@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/handcricketgame/static/css/main.e6c13ad2.css",
+    "main.js": "/handcricketgame/static/js/main.0a98062c.js",
+    "static/js/488.37ddfddf.chunk.js": "/handcricketgame/static/js/488.37ddfddf.chunk.js",
+    "index.html": "/handcricketgame/index.html",
+    "main.e6c13ad2.css.map": "/handcricketgame/static/css/main.e6c13ad2.css.map",
+    "main.0a98062c.js.map": "/handcricketgame/static/js/main.0a98062c.js.map",
+    "488.37ddfddf.chunk.js.map": "/handcricketgame/static/js/488.37ddfddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0a98062c.js"
+  ]
+}
