@@ -1,0 +1,20 @@
+.animated-btn {
+  transition: transform 0.2s, background 0.2s;
+}
+.animated-btn:hover {
+  transform: scale(1.05);
+  background-color: #7919d2 !important;
+  color: white !important;
+}
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.scoreboard {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #1e40af;
+}
